@@ -5,9 +5,12 @@
 from [MIRACLE](https://miracle.ustc.edu.cn/main.htm), USTC
 
 !!! important !!!
+
 This repository is highly built on https://github.com/StanfordMIMI/DDM2 and https://github.com/Janspiry/Image-Super-Resolution-via-Iterative-Refinement?tab=Apache-2.0-1-ov-file
 Thanks for open-sourcing
+
 *Please respect their license of usage.*
+
 !!! important !!!
 
 This is the official code of Self-Supervised Diffusion MRI Denoising via Iterative and Stable Refinement
@@ -33,9 +36,11 @@ data, affine = load_nifti(hardi_fname)
 ```
 
 For PPMI datasets, one can access them on https://www.ppmi-info.org/
+
 Please note that the data downloaded from PPMI (Parkinson's Progression Markers Initiative) is stored in a format different from nii.gz (NIfTI format). One need to perform the conversion from .nrrd to nii.gz.
 
 For fast MRI datasets, one can access them following the instruction in https://github.com/facebookresearch/fastMRI
+
 Please note that the data downloaded from fastMRI is stored in a format different from nii.gz (NIfTI format). One need to perform the conversion from H5 to nii.gz, details are in ```simulated_dataset.py```.
 
 For making simulated datasets, we use the API in fastMRI and follow the instruction in M4Raw, which are in ```simulated_dataset.py```. 
@@ -77,7 +82,9 @@ CSNR:
 
 ### Our Denoised Results and Simulated Datasets
 
-The denoised results and simulated datasets can be found at [data_share](https://www.jianguoyun.com/p/DYCPcQkQgOSNDBjptPcFIAA), for Quantitative Metrics Calulation, use hardi150_300t_0.85.nii.gz, for other tasks, use hardi150_300t_0.40.nii.gz.
+The denoised results and simulated datasets can be found at [data_share](https://www.jianguoyun.com/p/DYCPcQkQgOSNDBjptPcFIAA)
+
+For Quantitative Metrics Calulation, please use hardi150_300t_0.85.nii.gz, for other tasks, please use hardi150_300t_0.40.nii.gz.
 
 ### Quantitative Metrics Calulation
 
@@ -121,4 +128,5 @@ If you find this repository useful for your research, please cite the following 
 This implementation is based on / inspired by:
 - https://github.com/StanfordMIMI/DDM2 (DDM2)
 - https://github.com/Janspiry/Image-Super-Resolution-via-Iterative-Refinement?tab=Apache-2.0-1-ov-file (SR3)
+
 Thanks again for open-sourcing!
