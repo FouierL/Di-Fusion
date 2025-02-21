@@ -10,6 +10,8 @@ Thanks for open-sourcing
 *Please respect their license of usage.*
 !!! important !!!
 
+This is the official code of Self-Supervised Diffusion MRI Denoising via Iterative and Stable Refinement
+
 ## Dependencies
 
 Please clone the environment using the following command:
