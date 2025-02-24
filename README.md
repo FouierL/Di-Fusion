@@ -82,7 +82,7 @@ CSNR:
 
 ### Our Denoised Results and Simulated Datasets
 
-The denoised results and simulated datasets can be found at [data_share](https://www.jianguoyun.com/p/DYCPcQkQgOSNDBjptPcFIAA)
+The denoised results and simulated datasets can be found at [data_share](https://www.jianguoyun.com/p/DYCPcQkQgOSNDBjptPcFIAA) or [Hugging Face](https://huggingface.co/datasets/FouierL/Di-Fusion)
 
 For Quantitative Metrics Calulation, please use hardi150_300t_0.85.nii.gz, for other tasks, please use hardi150_300t_0.40.nii.gz.
 
