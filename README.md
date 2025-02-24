@@ -2,7 +2,7 @@
 ## 📖[**Paper**](https://arxiv.org/abs/2501.13514)
 
 [Chenxu Wu](https://fouierl.github.io/chenxuwu.github.io/), [Qingpeng Kong](https://kqp1227.github.io/), [Zihang Jiang](https://scholar.google.com/citations?user=Wo8tMSMAAAAJ), [S.Kevin Zhou](https://scholar.google.com/citations?user=8eNm2GMAAAAJ)
-from [MIRACLE](https://miracle.ustc.edu.cn/main.htm), USTC
+from [MIRACLE Center](https://miracle.ustc.edu.cn/main.htm), USTC
 
 !!! important !!!
 
@@ -13,7 +13,7 @@ Thanks for open-sourcing
 
 !!! important !!!
 
-This is the official code of Self-Supervised Diffusion MRI Denoising via Iterative and Stable Refinement
+This is the official implementation of Self-Supervised Diffusion MRI Denoising via Iterative and Stable Refinement
 
 ## Dependencies
 
