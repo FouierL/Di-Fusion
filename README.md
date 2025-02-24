@@ -116,7 +116,7 @@ With the denoised dataset, please follow the instructions in ```compute_psnr_ssi
 
 
 # References
-If you find this repository useful for your research, please cite the following work.
+If you find this repository useful for your research, consider cite the following work:
 ```
 @inproceedings{wuself,
   title={Self-Supervised Diffusion MRI Denoising via Iterative and Stable Refinement},
