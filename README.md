@@ -1,4 +1,4 @@
-# Self-Supervised Diffusion MRI Denoising via Iterative and Stable Refinement (ICLR 2025)
+# [**ICLR 2025**] Self-Supervised Diffusion MRI Denoising via Iterative and Stable Refinement
 ## 📖[**Paper**](https://arxiv.org/abs/2501.13514)
 
 [Chenxu Wu](https://fouierl.github.io/chenxuwu.github.io/), [Qingpeng Kong](https://kqp1227.github.io/), [Zihang Jiang](https://scholar.google.com/citations?user=Wo8tMSMAAAAJ), [S.Kevin Zhou](https://scholar.google.com/citations?user=8eNm2GMAAAAJ)
