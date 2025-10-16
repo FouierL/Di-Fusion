@@ -5,7 +5,7 @@
 from [MIRACLE Center](https://miracle.ustc.edu.cn/main.htm), USTC
 
 
-<div align="center">
+</div>
 <img src='ICLR2025poster.png' alt="sym" width="100%">
 </div>
 
