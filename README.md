@@ -4,10 +4,7 @@
 [Chenxu Wu](https://fouierl.github.io/chenxuwu.github.io/), [Qingpeng Kong](https://kqp1227.github.io/), [Zihang Jiang](https://scholar.google.com/citations?user=Wo8tMSMAAAAJ), [S.Kevin Zhou](https://scholar.google.com/citations?user=8eNm2GMAAAAJ)
 from [MIRACLE Center](https://miracle.ustc.edu.cn/main.htm), USTC
 
-
-</div>
-<img src='ICLR2025poster.png' alt="sym" width="100%">
-</div>
+![poster](ICLR2025poster.png)
 
 ❕ important ❕
 
