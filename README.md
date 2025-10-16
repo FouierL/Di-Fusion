@@ -4,14 +4,19 @@
 [Chenxu Wu](https://fouierl.github.io/chenxuwu.github.io/), [Qingpeng Kong](https://kqp1227.github.io/), [Zihang Jiang](https://scholar.google.com/citations?user=Wo8tMSMAAAAJ), [S.Kevin Zhou](https://scholar.google.com/citations?user=8eNm2GMAAAAJ)
 from [MIRACLE Center](https://miracle.ustc.edu.cn/main.htm), USTC
 
-!!! important !!!
+
+<div align="center">
+<img src="ICLR2025poster.png" alt="Poster" width="600">
+</div>
+
+❕ important ❕
 
 This repository is highly built on https://github.com/StanfordMIMI/DDM2 and https://github.com/Janspiry/Image-Super-Resolution-via-Iterative-Refinement?tab=Apache-2.0-1-ov-file
 Thanks for open-sourcing
 
 *Please respect their license of usage.*
 
-!!! important !!!
+❕ important ❕
 
 This is the official implementation of Self-Supervised Diffusion MRI Denoising via Iterative and Stable Refinement
 
