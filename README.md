@@ -2,6 +2,7 @@
 ## 📖[**Paper**](https://arxiv.org/abs/2501.13514)
 
 [Chenxu Wu](https://fouierl.github.io/chenxuwu.github.io/) (📧wuchenxu@mail.ustc.edu.cn), [Qingpeng Kong](https://kqp1227.github.io/), [Zihang Jiang](https://scholar.google.com/citations?user=Wo8tMSMAAAAJ), [S.Kevin Zhou](https://scholar.google.com/citations?user=8eNm2GMAAAAJ)
+
 from [MIRACLE Center](https://miracle.ustc.edu.cn/main.htm), USTC
 
 ![poster](ICLR25poster.png)
