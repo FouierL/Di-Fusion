@@ -427,9 +427,9 @@ class GaussianDiffusion(nn.Module):
         what_you_want_for_sample=1 #runwalk-1,ddpm-2,ddim-3
         CSNR = 0.040 # for more details, plz refer to our paper
         
-        Tt= self.getrunwalk(what_you_want_for_sample=what_you_want_for_sample,total_step=matched_state,CSNR=CSNR)
+        Tt= self.getrunwalk(what_you_want_for_sample=what_you_want_for_sample,total_step=matched_state)
 
-        return self.p_sample_loop(x_in, continous, ttt_opt=ttt_opt, matched_state=matched_state, Tt=Tt, what_you_want_for_sample=what_you_want_for_sample)
+        return self.p_sample_loop(x_in, continous, ttt_opt=ttt_opt, matched_state=matched_state, Tt=Tt, what_you_want_for_sample=what_you_want_for_sample, CSNR=CSNR)
 
     def q_sample(self, x_start, continuous_sqrt_alpha_cumprod, noise=None):
         noise = default(noise, lambda: torch.randn_like(x_start))
